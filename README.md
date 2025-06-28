@@ -53,10 +53,8 @@ This project was developed as the second assignment for the **Data Lab** course 
 - Modelos utilizados:  
   Models used:
   - **K-Nearest Neighbors**
-  - **Decision Tree**
-  - **Random Forest**
-- Métricas: accuracy, F1-score, matriz de confusión.  
-  Metrics: accuracy, F1-score, confusion matrix.
+- Métricas: accuracy
+  Metrics: accuracy
 
 ---
 
